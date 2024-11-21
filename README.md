@@ -119,10 +119,3 @@ git checkout -b feature/your-feature-name
 Ce projet est sous licence Boost Software License 1.0
 
 Vous êtes libre de l’utiliser, de le modifier et de le distribuer tant que vous respectez les termes de la licence.
-
----
-
-### Instructions :
-1. Copiez ce contenu et collez-le dans un fichier nommé `README.md`.
-2. Ajoutez vos captures d'écran réelles dans un dossier `images/` au même niveau que le script Python.
-3. Mettez à jour les fichiers d'image mentionnés (`launch_screen.png` et `unlocking_process.png`) avec vos propres captures d'écran.
