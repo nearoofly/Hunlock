@@ -13,7 +13,7 @@ Hunlock est un logiciel conçu pour simuler le déblocage d'un téléphone Andro
 Voici à quoi ressemble Hunlock lorsqu'il est exécuté :
 
 ### 1️⃣ Au lancement :
-Le script affiche un hibou stylisé et vos informations personnalisées :
+Le script affiche un hibou stylisé :
 
 ![Hunlock Logo et Présentation](images/launch_screen.png)
 
